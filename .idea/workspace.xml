@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ec53dcbe-ace0-43f8-8803-9dbfd9eca354" name="Default Changelist" comment="" />
+    <list default="true" id="ec53dcbe-ace0-43f8-8803-9dbfd9eca354" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Titanic - Machine Learning from Disaster/processing/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Titanic - Machine Learning from Disaster/processing/main.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +61,7 @@
       <workItem from="1682221527943" duration="46000" />
       <workItem from="1682221586915" duration="71000" />
       <workItem from="1682221671195" duration="880000" />
+      <workItem from="1682226161299" duration="459000" />
     </task>
     <servers />
   </component>
